@@ -55,7 +55,7 @@ There are 6 images extracted from the notebook to showcase the findings.
 
 ## Results
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@gezoe1207/how-much-do-french-developers-earn-a-year-3e79ecbe070c).
 
 ## Licensing, Authors, Acknowledgements
 
